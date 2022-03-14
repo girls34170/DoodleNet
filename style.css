@@ -1,0 +1,18 @@
+body{
+    background-color:#1d6ade;
+}
+h1{
+    color:rgb(238, 218, 108);
+    background-color:cornsilk;
+}
+#show_sketch{
+    float:right;
+}
+canvas{
+    border:5px solid whitesmoke;
+    border-radius:20px;
+    margin-top:50px;
+}
+p{
+    font-size:25px;
+}
